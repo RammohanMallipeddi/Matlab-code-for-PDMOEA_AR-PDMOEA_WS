@@ -1,6 +1,6 @@
 % The code of PDMOEA_AR and PDMOEA_WS accomplished on MATLAB 
 
-Pareto Dominance-Based Algorithms With Ranking Methods for Many-Objective Optimization 
+Pareto Dominance-Based Algorithms With Ranking Methods for Many-Objective Optimization                                     
 Vikas Palakonda and Rammohan Mallipeddi
 
 Website: http://ecis.knu.ac.kr/publications/
